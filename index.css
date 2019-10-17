@@ -1,0 +1,36 @@
+ul {
+    display: block;
+    /* background-color: aquamarine; */
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    text-decoration: none;
+}
+ul li {
+    padding: 15px;
+    list-style-type: none;
+    
+}
+nav {
+    padding: 0px;
+    background-color: rgb(243, 178, 178);
+    font-size: 20px;
+}
+
+ul>li>a:hover{
+    background-color: whitesmoke;
+}
+
+a {
+    display: block;
+    text-transform: capitalize;
+}
+
+
+.pic {
+    border-radius: 50%;
+    
+    
+}
