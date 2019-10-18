@@ -17,6 +17,7 @@ nav {
     padding: 0px;
     background-color: rgb(243, 178, 178);
     font-size: 20px;
+    width: 50%;
 }
 
 ul>li>a:hover{
@@ -59,4 +60,9 @@ span {
     font-size: 3em;
     margin-bottom: 1px;
     margin-top: 2px;
+}
+
+h1 {
+    color: blueviolet;
+    text-decoration-style: dotted;
 }
