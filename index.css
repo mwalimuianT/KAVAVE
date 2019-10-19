@@ -56,8 +56,9 @@ span {
 }
 
 #career {
-    margin-top: 450px;
+    margin-top: 370px;
     color: fuchsia;
+    text-align: left;
     
 }
 .awesome {
@@ -71,6 +72,6 @@ h1 {
     text-decoration-style: dotted;
 }
 em {
-    color: olivedrab;
+    color: #62C43B;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
