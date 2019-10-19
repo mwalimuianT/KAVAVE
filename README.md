@@ -25,3 +25,8 @@
 
 ## Contacts
 - bookertian9@gmail.com
+
+## Licence
+- 
+[MIT] 2019 copyright: (Ian Mwalimu)
+
