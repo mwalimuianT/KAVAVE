@@ -1,5 +1,8 @@
 # My Portfolio
-## Ian Mwalimu
+
+# Author
+### Ian Mwalimu
+
 ## Screenshots
 <img src="https://bit.ly/2oFKyzF" alt="Tech">
 
@@ -13,5 +16,8 @@
 -CSS
 -HTML
 
-## Bugs
--The project after commiting is slow loading or the changes made may affect the site when pushed
+## Known bugs
+-It loads slowly.
+
+## Project Set up
+#### 
