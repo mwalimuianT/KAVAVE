@@ -20,4 +20,4 @@
 -It loads slowly.
 
 ## Project Set up
-#### 
+-Clone the project
