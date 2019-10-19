@@ -66,3 +66,7 @@ h1 {
     color: blueviolet;
     text-decoration-style: dotted;
 }
+em {
+    color: olivedrab;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
