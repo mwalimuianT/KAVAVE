@@ -23,5 +23,5 @@
 -Clone the project
 -Run it in your local terminal/gh-pages
 
-## Conduct
+## Contacts
 - bookertian9@gmail.com
