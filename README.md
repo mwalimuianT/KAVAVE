@@ -21,4 +21,7 @@
 
 ## Project Set up
 -Clone the project
--Run it in y0ur local terminal/gh-pages
+-Run it in your local terminal/gh-pages
+
+## Conduct
+- bookertian9@gmail.com
