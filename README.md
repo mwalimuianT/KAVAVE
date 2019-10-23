@@ -4,7 +4,7 @@
 ### Ian Mwalimu
 
 ## Screenshots
-<img src="https://bit.ly/2oFKyzF" alt="Tech">
+ <img src="images/Eco gas.jpg" alt="Eco gas">
 
 ## Description
 - The project descibes my intrests in the Tech World
